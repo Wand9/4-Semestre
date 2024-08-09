@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ExerciciosTest"
+    "\\ExerciciosTest",
+    "\\TestExercicios"
   ],
-  "SelectedNode": "\\ExerciciosTest\\Livro.cs",
+  "SelectedNode": "\\TestExercicios\\LivroUnitTest.cs",
   "PreviewInSolutionExplorer": false
 }

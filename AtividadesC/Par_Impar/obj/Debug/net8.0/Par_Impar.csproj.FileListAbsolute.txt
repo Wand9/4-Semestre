@@ -1,0 +1,14 @@
+C:\Users\48599214888\Desktop\Exercicios_C#\Par_Impar\bin\Debug\net8.0\Par_Impar.exe
+C:\Users\48599214888\Desktop\Exercicios_C#\Par_Impar\bin\Debug\net8.0\Par_Impar.deps.json
+C:\Users\48599214888\Desktop\Exercicios_C#\Par_Impar\bin\Debug\net8.0\Par_Impar.runtimeconfig.json
+C:\Users\48599214888\Desktop\Exercicios_C#\Par_Impar\bin\Debug\net8.0\Par_Impar.dll
+C:\Users\48599214888\Desktop\Exercicios_C#\Par_Impar\bin\Debug\net8.0\Par_Impar.pdb
+C:\Users\48599214888\Desktop\Exercicios_C#\Par_Impar\obj\Debug\net8.0\Par_Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48599214888\Desktop\Exercicios_C#\Par_Impar\obj\Debug\net8.0\Par_Impar.AssemblyInfoInputs.cache
+C:\Users\48599214888\Desktop\Exercicios_C#\Par_Impar\obj\Debug\net8.0\Par_Impar.AssemblyInfo.cs
+C:\Users\48599214888\Desktop\Exercicios_C#\Par_Impar\obj\Debug\net8.0\Par_Impar.csproj.CoreCompileInputs.cache
+C:\Users\48599214888\Desktop\Exercicios_C#\Par_Impar\obj\Debug\net8.0\Par_Impar.dll
+C:\Users\48599214888\Desktop\Exercicios_C#\Par_Impar\obj\Debug\net8.0\refint\Par_Impar.dll
+C:\Users\48599214888\Desktop\Exercicios_C#\Par_Impar\obj\Debug\net8.0\Par_Impar.pdb
+C:\Users\48599214888\Desktop\Exercicios_C#\Par_Impar\obj\Debug\net8.0\Par_Impar.genruntimeconfig.cache
+C:\Users\48599214888\Desktop\Exercicios_C#\Par_Impar\obj\Debug\net8.0\ref\Par_Impar.dll
