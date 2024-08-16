@@ -1,6 +1,4 @@
-﻿using System;
-
-class ParOuImpar
+﻿class ParOuImpar
 {
     static void Main(string[] args)
     {
